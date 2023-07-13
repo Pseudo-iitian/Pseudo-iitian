@@ -4,7 +4,7 @@
 <h3 align="center">Upcoming Programmar from India</h3>
 
 
-<img align ="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFhcDZweng5c2Fqa3o4NzdlenFwMTlxZGEwMjRsZWJuMHA1MXhpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" >
+<img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/665bcf17d3263eccb77d84b8f10acd2be0a1039fc6279e282be6567a3651e938/68747470733a2f2f6d656469612e74656e6f722e636f6d2f594e71734a626d625f794d41414141642f636f64696e672e676966" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pseudo-iitian&label=Profile%20views&color=0e75b6&style=flat" alt="pseudo-iitian" /> </p>
 
